@@ -39,7 +39,7 @@ Getting the API data and using Javascript to append and save to local storage to
 ## Link
 ![Screenshot of live site](https://raw.githubusercontent.com/nmbeilke/Homework-Weather-Dashboard/main/Assets/Screen%20Shot%202021-10-24%20at%2012.53.33%20AM.png)
 
-https://nmbeilke.github.io/Homework-Weather-Dashboard/ Note: Still having trouble with GitHub pages. This works locally but doesn't seem to like the link to my javascript file, though it's linked properly as far as I can tell.
+https://nmbeilke.github.io/Homework-Weather-Dashboard/ Note: Getting the following error when using this while hosted on Github pages: "This request has been blocked; the content must be served over HTTPS." However, all functionality works locally.
 
 ## Credits
   
