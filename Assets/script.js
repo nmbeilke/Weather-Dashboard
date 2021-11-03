@@ -157,10 +157,9 @@ function makeButtons() {
             var SearchCity = this.getAttribute("data-value")
             searchAndGenerateWeather(SearchCity)
         })
-        // previousCitiesContainer.append(newBtn)
+        previousCitiesContainer.append(newBtn)
     }
 
-    console.log(cityButtons)
     localStorage.setItem("previousCities", JSON.stringify(cityButtons))
 }
 
