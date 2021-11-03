@@ -133,7 +133,7 @@ formEl.addEventListener("click", function (e) {
 
     cityButtons.push(searchValue)
     searchAndGenerateWeather(searchValue)
-    makeButtons()
+   // makeButtons()
 })
 
 function initalLoad() {
