@@ -15,7 +15,7 @@ mainEl.innerHTML = ""
 forecast.innerHTML = ""
 
 var openWeathApiKey = "d91f911bcf2c0f925fb6535547a5ddc9"
-var geoLocateCityURL = "http://api.openweathermap.org/geo/1.0/direct?q=" + 
+var geoLocateCityURL = "https://api.openweathermap.org/geo/1.0/direct?q=" + 
 city + ",US&limit=5&appid=" +openWeathApiKey
 
 
