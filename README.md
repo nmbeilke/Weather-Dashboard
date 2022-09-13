@@ -39,7 +39,7 @@ Getting the API data and using Javascript to append and save to local storage to
 ## Link
 ![Screenshot of live site](https://raw.githubusercontent.com/nmbeilke/Homework-Weather-Dashboard/main/Assets/Screen%20Shot%202021-10-24%20at%2012.53.33%20AM.png)
 
-https://nmbeilke.github.io/Homework-Weather-Dashboard/
+https://nmbeilke.github.io/Weather-Dashboard/
 
 ## Credits
   
